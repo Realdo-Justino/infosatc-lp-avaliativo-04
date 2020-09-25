@@ -46,7 +46,6 @@ for x in range(pessoa):
         if(alternativa=="s"):
             usuario=usuario+1
             cadastro()
-
         else:
             pass
     else:
